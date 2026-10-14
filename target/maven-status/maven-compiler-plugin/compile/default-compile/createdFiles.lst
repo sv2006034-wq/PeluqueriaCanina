@@ -1,0 +1,16 @@
+igu\VerDatos$2.class
+igu\VerDatos$1.class
+logica\Dueño.class
+igu\VerDatos.class
+logica\Controladora.class
+igu\CargarDa.class
+igu\ModificarDatos.class
+igu\Principal.class
+persistencia\DueñoJpaController.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\peluqueriacanina\PeluqueriaCanina.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
+persistencia\MascotaJpaController.class
+logica\Mascota.class
